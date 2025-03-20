@@ -1,3 +1,4 @@
+/* Grundlegendes Styling */
 body {
     font-family: Arial, sans-serif;
     color: #333;
@@ -6,6 +7,7 @@ body {
     padding: 0;
 }
 
+/* Header */
 header {
     background-color: #D91E18;
     color: white;
@@ -13,6 +15,7 @@ header {
     text-align: center;
 }
 
+/* Sektionen */
 section {
     padding: 2rem;
     background-color: #F0F0F0;
@@ -20,10 +23,12 @@ section {
     border-radius: 8px;
 }
 
-h2 {
+/* Überschriften */
+h1, h2, h3 {
     color: #D91E18;
 }
 
+/* Listen */
 ul {
     list-style-type: none;
     padding: 0;
@@ -33,6 +38,7 @@ li {
     margin-bottom: 0.5rem;
 }
 
+/* Footer */
 footer {
     text-align: center;
     padding: 1rem;
